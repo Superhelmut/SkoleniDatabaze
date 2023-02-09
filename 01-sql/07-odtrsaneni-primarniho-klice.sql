@@ -1,0 +1,1 @@
+ALTER TABLE barvicka DROP PRIMARY KEY;

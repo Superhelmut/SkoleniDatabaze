@@ -1,0 +1,1 @@
+SELECT distinct mena_nazev FROM zeme_mena ORDER BY mena_nazev;

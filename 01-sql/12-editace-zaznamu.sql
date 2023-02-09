@@ -1,0 +1,1 @@
+UPDATE palivo set nazev = "Diesel" WHERE nazev = "nafta";

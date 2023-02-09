@@ -1,0 +1,1 @@
+ALTER Table barvicka DROP css_barva;

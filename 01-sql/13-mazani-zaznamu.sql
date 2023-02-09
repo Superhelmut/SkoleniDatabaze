@@ -1,0 +1,1 @@
+DELETE FROM palivo WHERE nazev = "banzín" OR nazev = "diesel";

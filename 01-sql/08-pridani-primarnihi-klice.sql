@@ -1,0 +1,1 @@
+ALTER Table barvicka ADD PRIMARY KEY (id);

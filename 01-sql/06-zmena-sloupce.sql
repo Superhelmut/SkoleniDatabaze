@@ -1,0 +1,1 @@
+ALTER Table barvicka CHANGE id id INT UNSIGNED;
