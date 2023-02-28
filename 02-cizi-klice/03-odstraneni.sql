@@ -8,3 +8,6 @@ ALTER TABLE model ADD FOREIGN KEY (vyrobce_id) REFERENCES vyrobce(id) ON DELETE 
 
 -- zkusebni odstraneni vyrobce Kia
 DELETE FROM vyrobce WHERE nazev = "Kia";
+
+ALTER TABLE anchorage DROP FOREIGN KEY anchorage_ibfk_1;
+
